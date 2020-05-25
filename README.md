@@ -18,7 +18,7 @@
                 <img src="edit ps.png" alt="Gambar Profile">
             </div>
             <div>
-                <hi>Rakyan Jenar S</hi>
+                <hi>joyy</hi>
                 <P>Front End Designer</P>
                 <a href="#">Contact</a>
                 <a href="#">Resume</a>
@@ -42,7 +42,7 @@
                 </div>
                 <div>
                     <p>Email</p>
-                    <p>rkyan22@gmail.com</p>
+                    <p>doystor@gmail.com</p>
                 </div>
             </div> 
         </section>
